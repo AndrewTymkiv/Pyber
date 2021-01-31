@@ -18,6 +18,8 @@ Suburban: 490
 
 Rural: 78
 
+![Fig7](https://github.com/AndrewTymkiv/Pyber/blob/main/Resources/Fig7.png)
+
 #### Rides per City Type
 Following a similar trend, the number of rides per city type is highest in urban cities, with suburban cities second and rural third. The more people there are in a city, the more rides occur.
 
@@ -26,6 +28,8 @@ Urban: 1625
 Suburban: 625
 
 Rural: 125
+
+![Fig6](https://github.com/AndrewTymkiv/Pyber/blob/main/Resources/Fig6.png)
 
 #### Fares per City Type
 Overall, the total fare values for each city type continues to follow the same trend, with urban cities generating the most total fares, followed by suburban, then rural third. This is due to the higher number of rides resulting in a higher total fare value.
@@ -43,6 +47,12 @@ Urban: $24.53/ride
 Suburban: $30.97/ride
 
 Rural: $34.62/ride
+
+![Fig5](https://github.com/AndrewTymkiv/Pyber/blob/main/Resources/Fig5.png)
+
+![Pyber_fare_summary](https://github.com/AndrewTymkiv/Pyber/blob/main/Resources/Pyber_fare_summary.png)
+
+![Pyber_Summary_df](https://github.com/AndrewTymkiv/Pyber/blob/main/Resources/Pyber_Summary_df.png)
 
 --- 
 ## Summary
