@@ -11,23 +11,27 @@ The purpose of this project is to use Python's pandas, numpy, and matplotlib to 
 ## Results
 #### Drivers per City Type
 The number of drivers differs greatly across the city types with urban having the most number of drivers, susburban second, and rural last. Simply put, the lower the demand in the city type, the smaller the supply of drivers there are.
+
 Urban: 2405
 Suburban: 490
 Rural: 78
 
 #### Rides per City Type
 Following a similar trend, the number of rides per city type is highest in urban cities, with suburban cities second and rural third. The more people there are in a city, the more rides occur.
+
 Urban: 1625
 Suburban: 625
 Rural: 125
 
 #### Fares per City Type
 Overall, the total fare values for each city type continues to follow the same trend, with urban cities generating the most total fares, followed by suburban, then rural third. This is due to the higher number of rides resulting in a higher total fare value.
+
 Urban: $39,854.38
 Suburban: $19,356.33
 Rural: $4,327.93
 
 However, the average fare per ride by city type produces an inverse relationship, where the less rides there are, the higher the average fare is. Rural cities had the highest average fare, followed by suburban in second, and urban last.
+
 Urban: $24.53/ride
 Suburban: $30.97/ride
 Rural: $34.62/ride
